@@ -1,0 +1,2 @@
+image 
+In this folde Upload the student Images and rename the all images of student for unique IDS
